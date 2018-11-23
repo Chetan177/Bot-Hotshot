@@ -28,7 +28,7 @@ reddit = praw.Reddit(client_id='Yp2kpHRzd7tyZg',
 client = commands.Bot(command_prefix='.')
 players = {}
 queues = {}
-os.chdir(r'D:\Internship\Discord Bot\Bot_HotShots')
+
 
 
 

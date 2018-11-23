@@ -20,17 +20,17 @@ Hotshot can play music directly from the youtube through real-time streaming usi
 
 # Search Images
 HotShot can search images on Reddit using the Reddit praw.
-<img src = "BotHotShots\Preview\ssis.jpg">
+<img src = "BotHotShots\Preview\ssis.JPG">
 
 # Random Meme
-<img src = "BotHotShots\Preview\ssmeme.jpg">
+<img src = "BotHotShots\Preview\ssmeme.JPG">
 
 # Custom level system:
 Hotshot also has a customize level system too.
 
 # Spam Messages 
 Hotshot can spam desired message.
-<img src = "BotHotShots\Preview\sspam.jpg">
+<img src = "BotHotShots\Preview\ssspam.JPG">
 
 #TTS Features
 Can say what you type

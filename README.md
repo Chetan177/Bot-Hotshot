@@ -1,15 +1,15 @@
 # Bot-Hotshot
 Bot hot shot is a discord bot which has many functionalities
 
-<img src = "Bot_HotShots\Preview\icon.jpg">
+<img src = "BotHotShots\Preview\icon.jpg">
 It was very fun to play with this bot.
 
 # Commands:
 
-<img src = "Bot_HotShots\Preview\ss1.jpg">
+<img src = "BotHotShots\Preview\ss1.jpg">
 
 # Custom help embed
-<img src = "Bot_HotShots\Preview\ss2.jpg">
+<img src = "BotHotShots\Preview\ss2.jpg">
 
 
 # Features
@@ -20,17 +20,17 @@ Hotshot can play music directly from the youtube through real-time streaming usi
 
 # Search Images
 HotShot can search images on Reddit using the Reddit praw.
-<img src = "Bot_HotShots\Preview\ssis.jpg">
+<img src = "BotHotShots\Preview\ssis.jpg">
 
 # Random Meme
-<img src = "Bot_HotShots\Preview\ssmeme.jpg">
+<img src = "BotHotShots\Preview\ssmeme.jpg">
 
 # Custom level system:
 Hotshot also has a customize level system too.
 
 # Spam Messages 
 Hotshot can spam desired message.
-<img src = "Bot_HotShots\Preview\sspam.jpg">
+<img src = "BotHotShots\Preview\sspam.jpg">
 
 #TTS Features
 Can say what you type
